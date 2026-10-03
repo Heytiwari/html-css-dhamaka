@@ -1,0 +1,6 @@
+@media screen and (max-width:500px) {
+    .first img{
+        float: left;
+        margin: -40px -173px
+    }
+};
